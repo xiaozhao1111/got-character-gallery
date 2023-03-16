@@ -11,7 +11,7 @@
         "hair": "Dark",
         "name": "Aragorn II Elessar",
         "wikiUrl": "http://lotr.wikia.com//wiki/Aragorn_II_Elessar",
-        "imgUrl": "https://static.wikia.nocookie.net/lotrfanon/images/e/e7/Elessar_Telcontar.png/revision/latest?cb=20131223135722"
+        "imgUrl": "https://static.wikia.nocookie.net/lotrfanon/images/e/e7/Elessar_Telcontar.png"
     },
     {
         "_id": "5cd99d4bde30eff6ebccfc07",
@@ -39,7 +39,7 @@
         "hair": "",
         "name": "Balbo Baggins",
         "wikiUrl": "http://lotr.wikia.com//wiki/Balbo_Baggins",
-        "imgUrl": "https://i.redd.it/72fx53ipzu551.jpg"
+        "imgUrl": "https://static.wikia.nocookie.net/the-hobbit-films/images/a/a9/BilboScreencap.png"
     },
     {
         "_id": "5cd99d4bde30eff6ebccfc15",
@@ -53,7 +53,7 @@
         "hair": "Brown",
         "name": "Frodo Baggins",
         "wikiUrl": "http://lotr.wikia.com//wiki/Frodo_Baggins",
-        "imgUrl": "https://static.wikia.nocookie.net/lotr/images/5/54/Untitledjk.png/revision/latest?cb=20130313174543"
+        "imgUrl": "https://static.wikia.nocookie.net/the-hobbit-films/images/f/fd/Frodo_%281%29.png"
     },
     {
         "_id": "5cd99d4bde30eff6ebccfea0",
@@ -67,7 +67,7 @@
         "hair": "Grey, later white",
         "name": "Gandalf",
         "wikiUrl": "http://lotr.wikia.com//wiki/Gandalf",
-        "imgUrl": "https://static.wikia.nocookie.net/lotr/images/e/e7/Gandalf_the_Grey.jpg/revision/latest?cb=20121110131754"
+        "imgUrl": "https://static.wikia.nocookie.net/lotr/images/e/e7/Gandalf_the_Grey.jpg"
     },
     {
         "_id": "5cd99d4bde30eff6ebccfd81",
@@ -81,7 +81,7 @@
         "hair": "Uncertain (book), Blonde (films)",
         "name": "Legolas",
         "wikiUrl": "http://lotr.wikia.com//wiki/Legolas",
-        "imgUrl": "https://i2.wp.com/middle-earth.xenite.org/files/2015/10/cute-legolas.jpg?fit=555%2C400&ssl=1"
+        "imgUrl": "https://i2.wp.com/middle-earth.xenite.org/files/2015/10/cute-legolas.jpg"
     },
     {
         "_id": "5cd99d4bde30eff6ebccfd0d",
@@ -109,6 +109,6 @@
         "name": "Éowyn",
         "race": "Men",
         "wikiUrl": "http://lotr.wikia.com//wiki/%C3%89owyn",
-        "imgUrl": "https://static.wikia.nocookie.net/middle-earth-film-saga/images/3/39/Eowyn.png/revision/latest?cb=20160207023645"
+        "imgUrl": "https://static.wikia.nocookie.net/middle-earth-film-saga/images/3/39/Eowyn.png"
     }
 ]

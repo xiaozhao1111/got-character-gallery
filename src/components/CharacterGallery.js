@@ -5,7 +5,7 @@ import Character from "./Character";
 function CharacterGallery() {
     const listOfChars = characterData.map((char, i) => <Character {...char} key={i} />)
     return(
-        <div data-test='component-char-gallery'>
+        <div data-test='component-char-gallery' className='gallery-container'>
             {listOfChars}
         </div>
     )
